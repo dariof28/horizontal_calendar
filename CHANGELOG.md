@@ -1,4 +1,7 @@
-## [1.0.2] 
+## [1.0.3]
+- Remove intl direct dependency to avoid version solving fail [dariof28](https://github.com/dariof28)
+
+## [1.0.2]
 - Added Min Selected date count (Author [dariof28](https://github.com/dariof28))
 - Added Ability to show month and dayOfWeek labels in uppercase (Author [dariof28](https://github.com/dariof28))
 - Upgraded Flutter version to v1.17.2
